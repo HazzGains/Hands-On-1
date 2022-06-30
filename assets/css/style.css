@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;500;700&display=swap');
+
+@import "./bootstrap.css";
+@import "./responsive-elements.css";
+@import "./responsive-background.css";
+@import "./footer.css";
+@import "./button.css";
+@import "./header.css"; 
+@import "./main.css";

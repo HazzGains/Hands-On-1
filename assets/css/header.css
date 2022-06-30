@@ -1,0 +1,20 @@
+header section{
+    width: 1024px;
+    margin: 30px auto;
+
+    display: flex;
+    flex-direction: row; /*alinhar em linha */
+    justify-content: space-between; /* colocar ambos nos extremos do lado */
+    align-items: center; /* centralizar ambos */
+}
+
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header nav ul li a{
+    margin: 0 15px;
+    color: #3399cc;
+}

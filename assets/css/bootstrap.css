@@ -1,0 +1,30 @@
+* { /* Para todas as tags */
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: 'Akshar', sans-serif;
+    font-weight: 500;
+    /*font: inherit;*/
+    vertical-align: baseline;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-image: url('../images/bolha-background.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.container {
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
