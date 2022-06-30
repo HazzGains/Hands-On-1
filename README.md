@@ -8,7 +8,7 @@
 
 <p>Aulas Desenvolvidas no curso Jornada Front-end</p>
 <p>Tecnologias: Html, Css, Sass e Design Responsivo</p>
-<p>Visualização do projeto https://hazzgains.github.io/hands-on-1/</p>
+<p>Visualização do projeto https://hazzgains.github.io/Hands-On-1/</p>
 ---
 
 Aulas de ♥ Dener Troquatte :wave: [Github](https://github.com/troquatte/hands-on-curso-front-end-1)
